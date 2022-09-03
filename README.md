@@ -1,7 +1,7 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGhflbaibxXEQ/profile-displaybackgroundimage-shrink_200_800/0/1654705322304?e=1667433600&v=beta&t=vGfVfqXVp_ECs-oMyiTZynOLTYs6HFfCxKTs1h2nSpM)]
 <h1 align="center">Hi 👋, I'm Shohidul Jaman Anik</h1>
 <h3 align="center">Web Development Is My Passion. I Love To Learn New Skills To Become Myself A Pro Developer</h3>
-<img align="right" height="250px" width="350px" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="anik2861" />
+<img align="right" height="210px" width="310px" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="anik2861" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik2861&label=Profile%20views&color=0e75b6&style=flat" alt="anik2861" /> </p>
 
