@@ -7,7 +7,7 @@
        alt="snake" />
 </div>
 
-<img align="right" height="360px" width="390px" src="https://i.ibb.co/TbVtR0M/front-end-development.gif" alt="anik2861" />
+<img align="right" height="250px" width="320px" src="https://i.ibb.co/TbVtR0M/front-end-development.gif" alt="anik2861" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik2861&label=Profile%20views&color=0e75b6&style=flat" alt="anik2861" /> </p>
 
