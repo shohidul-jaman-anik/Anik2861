@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGhflbaibxXEQ/profile-displaybackgroundimage-shrink_200_800/0/1654705322304?e=1667433600&v=beta&t=vGfVfqXVp_ECs-oMyiTZynOLTYs6HFfCxKTs1h2nSpM)
+![MasterHead](https://i.ibb.co/hWCnCPZ/banner.gif)
 <h1 align="center">Hi 👋, I'm Shohidul Jaman Anik</h1>
 <h3 align="center">Web Development Is My Passion. I Love To Learn New Skills To Become Myself A Pro Developer</h3>
 
@@ -7,7 +7,7 @@
        alt="snake" />
 </div>
 
-<img align="right" height="360px" width="310px" src="https://camo.githubusercontent.com/3e29ecedec1c9637b1c7536ceaa142382cf30bf5602ed1fed828cb3931535709/68747470733a2f2f692e6962622e636f2f35424d356b4a762f343030323738352e6a7067" alt="anik2861" />
+<img align="right" height="360px" width="390px" src="https://i.ibb.co/TbVtR0M/front-end-development.gif" alt="anik2861" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik2861&label=Profile%20views&color=0e75b6&style=flat" alt="anik2861" /> </p>
 
