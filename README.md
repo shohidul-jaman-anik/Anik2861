@@ -38,3 +38,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anik2861&show_icons=true&locale=en" alt="anik2861" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anik2861&" alt="anik2861" /></p>
+
+<p align="center"> <a href="https://github.com/Anik2861/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anik2861&row=1&column=6&theme=onedark" alt="Anik" /></a> </p>
+
+
+
+
+
+
+
+
+
