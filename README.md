@@ -2,12 +2,17 @@
 <h1 align="center">Hi 👋, I'm Shohidul Jaman Anik</h1>
 <h3 align="center">Web Development Is My Passion. I Love To Learn New Skills To Become Myself A Pro Developer</h3>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Anik2861/count.svg" />
+</p>
+
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" />
 </div>
 
-<img align="right" height="290px" width="240px" src="https://i.ibb.co/PwgQjwy/sideimg.gif" alt="anik2861" />
+<img align="right" height="290px" width="260px" src="https://i.ibb.co/PwgQjwy/sideimg.gif" alt="anik2861" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik2861&label=Profile%20views&color=0e75b6&style=flat" alt="anik2861" /> </p>
 
