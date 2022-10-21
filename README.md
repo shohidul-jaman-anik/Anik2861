@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Shohidul Jaman Anik</h1>
 <h3 align="center">Web Development Is My Passion. I Love To Learn New Skills To Become Myself A Pro Developer</h3>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Anik2861/count.svg" />
-</p>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
