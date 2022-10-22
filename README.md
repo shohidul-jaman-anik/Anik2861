@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/hWCnCPZ/banner.gif)
+![MasterHead](https://i.ibb.co/mCkcR2R/Blue-Modern-Tips-Business-Banner-2.png)
 <h1 align="center">Hi 👋, I'm Shohidul Jaman Anik</h1>
 <h3 align="center">Web Development Is My Passion. I Love To Learn New Skills To Become Myself A Pro Developer</h3>
 
